@@ -13,6 +13,7 @@
     "typecheck": "tsc -b --pretty false",
     "lint": "eslint .",
     "qr": "node scripts/generate-assets.mjs",
+    "test:e2e": "node scripts/test-site.mjs",
     "deploy": "npx wrangler pages deploy dist --project-name sk-print-house-contact-card"
   },
   "dependencies": {
@@ -35,6 +36,9 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.7",
     "globals": "^17.14.0",
+    "jsqr": "^1.4.0",
+    "playwright-core": "^1.65.0",
+    "pngjs": "^7.0.0",
     "postcss": "^8.5.32",
     "qrcode": "^1.5.4",
     "sharp": "^0.35.5",
