@@ -80,7 +80,7 @@ export function ContactAction({
 
       <span
         className={cn(
-          'hidden h-8 w-8 shrink-0 place-items-center rounded-full border border-ink/15 text-ink transition-all duration-500 ease-smooth sm:grid sm:h-9 sm:w-9',
+          'grid h-8 w-8 shrink-0 place-items-center rounded-full border border-ink/15 text-ink transition-all duration-500 ease-smooth max-[359px]:hidden sm:h-9 sm:w-9',
           accentClasses[accent].arrow,
         )}
         aria-hidden="true"
