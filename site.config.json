@@ -1,0 +1,18 @@
+{
+  "name": "SK Print House",
+  "legalName": "SK PRINT HOUSE",
+  "tagline": "Your Complete Printing Solution",
+  "intro": "We're just one click away. Connect with us.",
+  "description": "The digital contact card for SK Print House. Call, WhatsApp or email us in one tap — your complete printing solution.",
+  "phone": {
+    "display": "+91 96436 62299",
+    "raw": "+919643662299"
+  },
+  "whatsapp": {
+    "display": "+91 96436 62299",
+    "number": "919643662299"
+  },
+  "email": "sk.printhouse@gmail.com",
+  "url": "https://sk-print-house-contact-card.pages.dev",
+  "projectName": "sk-print-house-contact-card"
+}
